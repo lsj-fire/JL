@@ -1,4 +1,4 @@
 #include "stdio.h"
 void main(){
-	printf("better!!!!\n");
+	printf("hello github!!!!\n");
 }
